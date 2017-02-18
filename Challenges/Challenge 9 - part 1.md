@@ -16,8 +16,8 @@ Wartian Herkku.
 3. Which supplier has the highest average product price?  
 Aux joyeux ecclésiastiques with average product price of 141.  
 
-4. How many different countries are all the customers from? (*Hint:* consider [DISTINCT](http://www.w3schools.com/sql/sql_distinct.asp).)  
-21.  
+4. How many different countries are all the customers from? (*Hint:* consider [DISTINCT (http://www.w3schools.com/sql/sql_distinct.asp).)  
+21.
 
 5. What category appears in the most orders?  
 Dairy Products  
