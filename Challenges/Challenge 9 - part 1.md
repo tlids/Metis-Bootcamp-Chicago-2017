@@ -7,7 +7,7 @@
 
 This challenge uses the [W3Schools SQL playground](http://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all). Please add solutions to this markdown file and submit.
 
-1. Which customers are from the UK?
+1. Which customers are from the UK?  
 Thomas Hardy, Victoria Ashworth, Elizabeth Brown, Ann Devon, Helen Bennett, Simon Crowther, Hari Kumar.  
 
 
