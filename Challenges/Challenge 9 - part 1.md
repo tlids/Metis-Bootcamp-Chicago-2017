@@ -10,7 +10,6 @@ This challenge uses the [W3Schools SQL playground](http://www.w3schools.com/sql/
 1. Which customers are from the UK?  
 Thomas Hardy, Victoria Ashworth, Elizabeth Brown, Ann Devon, Helen Bennett, Simon Crowther, Hari Kumar.  
 
-
 2. What is the name of the customer who has the most orders?  
 Wartian Herkku.  
 
